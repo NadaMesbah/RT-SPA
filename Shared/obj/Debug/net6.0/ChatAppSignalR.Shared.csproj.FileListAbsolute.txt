@@ -1,0 +1,12 @@
+C:\Users\admin\source\repos\ChatAppSignalR\Shared\bin\Debug\net6.0\ChatAppSignalR.Shared.deps.json
+C:\Users\admin\source\repos\ChatAppSignalR\Shared\bin\Debug\net6.0\ChatAppSignalR.Shared.dll
+C:\Users\admin\source\repos\ChatAppSignalR\Shared\bin\Debug\net6.0\ChatAppSignalR.Shared.pdb
+C:\Users\admin\source\repos\ChatAppSignalR\Shared\obj\Debug\net6.0\ChatAppSignalR.Shared.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\ChatAppSignalR\Shared\obj\Debug\net6.0\ChatAppSignalR.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\ChatAppSignalR\Shared\obj\Debug\net6.0\ChatAppSignalR.Shared.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\ChatAppSignalR\Shared\obj\Debug\net6.0\ChatAppSignalR.Shared.AssemblyInfo.cs
+C:\Users\admin\source\repos\ChatAppSignalR\Shared\obj\Debug\net6.0\ChatAppSignalR.Shared.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\ChatAppSignalR\Shared\obj\Debug\net6.0\ChatAppSignalR.Shared.dll
+C:\Users\admin\source\repos\ChatAppSignalR\Shared\obj\Debug\net6.0\refint\ChatAppSignalR.Shared.dll
+C:\Users\admin\source\repos\ChatAppSignalR\Shared\obj\Debug\net6.0\ChatAppSignalR.Shared.pdb
+C:\Users\admin\source\repos\ChatAppSignalR\Shared\obj\Debug\net6.0\ref\ChatAppSignalR.Shared.dll
