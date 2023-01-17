@@ -205,14 +205,14 @@
       "netstandard.dll": "sha256-kBK\/QJy7\/skP97jqnvXnOFMrhWS8HZ1bsADFK\/gZkyM=",
       "System.Private.CoreLib.dll": "sha256-3webPuyNUXfAFKY5c1tC\/jBVrjZHelBwvXrr1E9VJuk=",
       "ChatAppSignalR.Shared.dll": "sha256-HMEXsPpAOLtNgXuKeh9I5PzORVNpylOwYs49pDftGS4=",
-      "ChatAppSignalR.Client.dll": "sha256-jji3GfY+y77mgRabOxBD585Bx33MaWtU14ozSegkkV0="
+      "ChatAppSignalR.Client.dll": "sha256-U0RIan6tGfaG\/NmQXxakGWK73dV4ht57LdCIzolnYLc="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
       "ChatAppSignalR.Shared.pdb": "sha256-fTV+X\/LjOB\/QSARw8XBVA\/yKl8QZ4\/46LqFszhJFtBo=",
-      "ChatAppSignalR.Client.pdb": "sha256-uj\/3Pw1estb3PGdxapSEA1NcW9AYlMex5ZAIf4xqVio="
+      "ChatAppSignalR.Client.pdb": "sha256-ukU3Mkm+LvZqGK2A78ZWysGIF+22UC\/dbG1gsg9kXOU="
     },
     "runtime": {
       "dotnet.6.0.13.cthzu4nnoy.js": "sha256-X\/515F1HEzgsDZdY8BJjt8YUwrWngHGZkMnpClhsrpY=",
