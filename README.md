@@ -1,4 +1,3 @@
-# RT-SPA
 # Real Time Chat App : .NET 6 Blazor with SignalR 
 ![spa1](https://user-images.githubusercontent.com/115350875/212890617-55de6c38-3e25-4b9d-980f-696c09fd42da.png)
 ![spa2](https://user-images.githubusercontent.com/115350875/212890678-b918e620-ddd4-4e44-8970-1c64774b26b9.png)
